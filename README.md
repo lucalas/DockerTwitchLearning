@@ -1,0 +1,1 @@
+Questo repository conterrà gli appunti dell'appprendimento su Docker scritti in live sul canale twitch https://www.twitch.tv/capitanted
