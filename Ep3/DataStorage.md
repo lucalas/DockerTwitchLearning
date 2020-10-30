@@ -45,7 +45,10 @@ Questo metodo è utile per il salvataggio temporaneo dei dati che richiedono per
 - Non può essere condiviso tra containers come i volumes e i bind mounts
 
 
-#Enciclopedia
+# Enciclopedia
+
 https://docs.docker.com/storage/bind-mounts/
+
 https://docs.docker.com/storage/volumes/
+
 https://docs.docker.com/storage/tmpfs/
