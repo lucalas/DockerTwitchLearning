@@ -1,0 +1,33 @@
+{
+  "name": "twitchbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucalas/DockerTwitchLearning.git"
+  },
+  "keywords": [
+    "twitch",
+    "bot"
+  ],
+  "author": "lucalas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucalas/DockerTwitchLearning/issues"
+  },
+  "homepage": "https://github.com/lucalas/DockerTwitchLearning#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "tmi.js": "^1.5.0",
+    "ts-node-dev": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/tmi.js": "^1.4.2",
+    "tslint": "^6.1.3",
+    "typescript": "^4.1.2"
+  }
+}

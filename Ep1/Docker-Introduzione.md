@@ -16,7 +16,7 @@ L’image docker rappresenta il gruppo di file che conterrà tutto il necessario
 Il container rappresenta il processo effettivo che eseguirà la nostra applicazione basandosi sull’immagine 
 
 ### Comandi:
-**docker run [docker_name]** -> Avvia un docker e se non presente in locale lo scarica
+**docker run [docker_name]** -> Avvia un docker e se non presente in locale lo scarica (-d per fare il detach dell'applicazione)
 
 **docker image ls** -> Restituisce la lista di immagini scaricate
 
@@ -50,4 +50,5 @@ STATELESS I cointainer sono stateless, questo vuol dire che tutte le modifiche c
 
 
 # Enciclopedia
+
 https://dev.to/emarsys/the-missing-docker-cheatsheet-4dbg
