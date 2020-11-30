@@ -1,2 +1,3 @@
 ﻿node_modules
 Ep2/TwitchBot/app/package-lock.json
+**/config.json
